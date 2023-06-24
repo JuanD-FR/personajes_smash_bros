@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/personajes_smash_bros/static/css/main.e6f4f07b.css",
+    "main.js": "/personajes_smash_bros/static/js/main.00f87ce3.js",
+    "static/media/ssmLogo.png": "/personajes_smash_bros/static/media/ssmLogo.3db669a79284108be204.png",
+    "static/media/mewtwo.png": "/personajes_smash_bros/static/media/mewtwo.566148096032cab2d125.png",
+    "static/media/yoshi.png": "/personajes_smash_bros/static/media/yoshi.fd0dc28445b2e8bc989b.png",
+    "static/media/Emma.png": "/personajes_smash_bros/static/media/Emma.add10415a5668325d2f2.png",
+    "static/media/Sarah.png": "/personajes_smash_bros/static/media/Sarah.2c504d1ebaf1961e4a40.png",
+    "static/media/Shawn.png": "/personajes_smash_bros/static/media/Shawn.0d373888087fb18fc145.png",
+    "static/media/ssb.png": "/personajes_smash_bros/static/media/ssb.bbb91bdac249c306bd87.png",
+    "static/media/link.png": "/personajes_smash_bros/static/media/link.c7570ecd6053af06730c.png",
+    "static/media/mario.png": "/personajes_smash_bros/static/media/mario.c46e851b2674966f8c6b.png",
+    "index.html": "/personajes_smash_bros/index.html",
+    "main.e6f4f07b.css.map": "/personajes_smash_bros/static/css/main.e6f4f07b.css.map",
+    "main.00f87ce3.js.map": "/personajes_smash_bros/static/js/main.00f87ce3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6f4f07b.css",
+    "static/js/main.00f87ce3.js"
+  ]
+}
